@@ -1,7 +1,7 @@
 node_modules/
 
-s*
+z*
 
 .env
 
-artifacts/
+/artifacts/
